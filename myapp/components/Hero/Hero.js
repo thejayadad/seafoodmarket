@@ -7,7 +7,7 @@ import Image from 'next/image'
 
 const Hero = () => {
   return (
-    <section className='mx-auto max-w-screen-xl px-4'>
+    <section className='mx-auto max-w-screen-xl'>
         <Image 
         src={hero}
         height={1000}

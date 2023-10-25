@@ -6,7 +6,7 @@ import { FaShoppingCart } from 'react-icons/fa'; // Import the shopping cart ico
 const links = [
   { text: 'Home', url: '/' },
   { text: 'About', url: '/about' },
-  { text: 'Onlineorder', url: '/order' },
+  { text: 'OrderNow', url: '/order' },
 ];
 
 const NavLinks = () => {
